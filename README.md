@@ -1,5 +1,6 @@
 # 💫 About Me:
-Filmon Ataklty Gebretekle is a final-year Computer Science and Engineering student at MIT Mekelle University, specializing as a front-end web developer and AI expert. He combines a strong foundation in computer science with practical skills in crafting user interfaces and developing intelligent systems.<br><br>
+Filmon Ataklty is a final-year Computer Science and Engineering student at MIT Mekelle University, specializing as a front-end web developer and AI expert.
+He combines a strong foundation in computer science with practical skills in crafting user interfaces and developing intelligent systems.<br><br>
 
 
 ## 🌐 Socials:
